@@ -7,6 +7,12 @@
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
+# openclassroom
+- project: Learn how to surf the Internet safely
+  role: Student
+  duration: 2022 &mdash; Present
+  url: "https://openclassrooms.com/fr/courses/1373056/next-page-to-do"
+  description: Learn how to surf the Internet safely
 
 # GitHub Classroom
 - project: GitHub Classroom
